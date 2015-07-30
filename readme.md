@@ -1,4 +1,4 @@
 # guanr
 
 
-webSite[home] (http://www.guanr.com)
+webSite[主页] (http://www.guanr.com)
