@@ -5,7 +5,7 @@ class  My_Class_One {
     }
     
     public function twoMethod() {
-           echo "abc";
+           echo "two";
     }
 }
 ?>
