@@ -1,11 +1,11 @@
 <?php
 class  My_Class_One {
     public function oneMethod() {
-            echo "onsdfsdfsde";
+            echo "onsdfsdsdfsdfsdfsde";
     }
     
     public function twoMethod() {
-           echo "twdsfsdfdso";
+           echo "twdsdfdsffsdfdso";
     }
 }
 ?>
